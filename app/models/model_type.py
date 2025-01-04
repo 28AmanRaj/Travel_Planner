@@ -21,7 +21,9 @@ class TripPlanState(TypedDict):
     Itinerary_Style: str
     Budget: str
     Destination_Detail:str
-    Place_Recommendation:str
-    Activity_Recommendation:str
+    Recommended_Places:str
+    Recommended_Activity:str
+    Recommended_Hotels:dict
+    Recommended_Links:dict
     Travel_Plan:str
     

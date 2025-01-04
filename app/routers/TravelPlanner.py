@@ -17,7 +17,7 @@ async def create_trip_plan(
         Travel_Plan = await run_graph(request) 
         return {
             "status": "success",
-            "message": "Lesson Plan Generated Successfully",
+            "message": "Travel Plan Generated Successfully",
             "data": Travel_Plan
             
         }
