@@ -1,1 +1,2 @@
-# Travel_Planner
+# travel-agent
+Travel AI Agent - Langgraph
